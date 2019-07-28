@@ -1,0 +1,45 @@
+h1,h2{
+    color: black;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(239, 250, 142, 0.3);
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    color: blue;
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+header{
+    background-image: url(https://myventurepad.com/wp-content/uploads/2018/11/Co-workers-working-in-start-up-office.jpg);
+    background-repeat: no-repeat;
+    padding: 300px;
+
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    display: block;
+    color: blue;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(239, 250, 142, 0.3);
+}
+
+#div5{
+    background-color: rgba(239, 250, 142, 0.3);
+    text-align: center;
+}
